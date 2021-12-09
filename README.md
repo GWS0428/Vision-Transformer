@@ -17,7 +17,7 @@ I recommends using python3 and conda virtual environment.
 ```bash
 conda create -n myenv python=3.7
 conda activate myenv
-conda install requirements.txt
+conda install --yes --file requirements.txt
 ```
 
 After making a virtual environment, download the git repository and use the model for your own project. When you're done working on the project, deactivate the virtual environment with `conda deactivate`.
