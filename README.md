@@ -12,7 +12,7 @@ The official Jax repository is [here](https://github.com/google-research/vision_
 
 ## Requirements
 
-I recommends using python3 and conda virtual environment.
+I recommend using python3 and conda virtual environment.
 
 ```bash
 conda create -n myenv python=3.7
